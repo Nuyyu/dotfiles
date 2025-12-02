@@ -1,2 +1,2 @@
-# dotfiles
-Niri ayarlarım
+# Niri ayarlarım
+4 yıllık Hyprland deneyimimden sonra waylanda ve wm'lerin hızına alıştım Niri benim bilgisiyarımda hem daha kusursuz hemde daha akıcı geldiği halde ve sonsuz pencere mantığı hoşuma gittiği için kalıcı olarak kullanmaya karar verdim bu niri üstündeki ilk ayarlarım bunu daha sonra geliştirecem paylaşır mıyım bilmem hyprland kadar kusursuz bir ayar olmadı ama hala alışma süresindeyim
